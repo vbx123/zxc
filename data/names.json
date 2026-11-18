@@ -1,0 +1,1116 @@
+{
+ "محمد": {
+  "default": "Mohammed",
+  "alternatives": [
+   "Muhammad",
+   "Mohamed"
+  ]
+ },
+ "أحمد": {
+  "default": "Ahmed",
+  "alternatives": [
+   "Ahmad"
+  ]
+ },
+ "خالد": {
+  "default": "Khalid",
+  "alternatives": [
+   "Khaled"
+  ]
+ },
+ "عبدالله": {
+  "default": "Abdullah",
+  "alternatives": [
+   "Abdallah"
+  ]
+ },
+ "عبدالرحمن": {
+  "default": "Abdulrahman",
+  "alternatives": [
+   "Abdelrahman",
+   "Abdul Rahman"
+  ]
+ },
+ "عمر": {
+  "default": "Omar",
+  "alternatives": [
+   "Umar"
+  ]
+ },
+ "علي": {
+  "default": "Ali",
+  "alternatives": [
+   "Aly"
+  ]
+ },
+ "يوسف": {
+  "default": "Youssef",
+  "alternatives": [
+   "Yusuf",
+   "Yousef",
+   "Yousuf"
+  ]
+ },
+ "إبراهيم": {
+  "default": "Ibrahim",
+  "alternatives": [
+   "Ebrahim"
+  ]
+ },
+ "إسماعيل": {
+  "default": "Ismail",
+  "alternatives": [
+   "Ismael"
+  ]
+ },
+ "حسن": {
+  "default": "Hassan",
+  "alternatives": [
+   "Hasan"
+  ]
+ },
+ "حسين": {
+  "default": "Hussein",
+  "alternatives": [
+   "Hussain",
+   "Husain"
+  ]
+ },
+ "محمود": {
+  "default": "Mahmoud",
+  "alternatives": [
+   "Mahmood"
+  ]
+ },
+ "مصطفى": {
+  "default": "Mostafa",
+  "alternatives": [
+   "Mustafa",
+   "Moustafa"
+  ]
+ },
+ "طارق": {
+  "default": "Tariq",
+  "alternatives": [
+   "Tarek"
+  ]
+ },
+ "زياد": {
+  "default": "Ziad",
+  "alternatives": [
+   "Ziyad"
+  ]
+ },
+ "سعد": {
+  "default": "Saad",
+  "alternatives": [
+   "Sad"
+  ]
+ },
+ "سعيد": {
+  "default": "Saeed",
+  "alternatives": [
+   "Said",
+   "Saied"
+  ]
+ },
+ "سلمان": {
+  "default": "Salman",
+  "alternatives": [
+   "Selman"
+  ]
+ },
+ "سلطان": {
+  "default": "Sultan",
+  "alternatives": [
+   "Soltan"
+  ]
+ },
+ "فهد": {
+  "default": "Fahad",
+  "alternatives": [
+   "Fahd"
+  ]
+ },
+ "فيصل": {
+  "default": "Faisal",
+  "alternatives": [
+   "Faysal"
+  ]
+ },
+ "ماجد": {
+  "default": "Majed",
+  "alternatives": [
+   "Majid"
+  ]
+ },
+ "ناصر": {
+  "default": "Nasser",
+  "alternatives": [
+   "Nasir",
+   "Naser"
+  ]
+ },
+ "نايف": {
+  "default": "Naif",
+  "alternatives": [
+   "Nayef",
+   "Nayif"
+  ]
+ },
+ "هاني": {
+  "default": "Hani",
+  "alternatives": [
+   "Hany"
+  ]
+ },
+ "وليد": {
+  "default": "Waleed",
+  "alternatives": [
+   "Walid"
+  ]
+ },
+ "ياسر": {
+  "default": "Yasser",
+  "alternatives": [
+   "Yasir",
+   "Yaser"
+  ]
+ },
+ "يحيى": {
+  "default": "Yahya",
+  "alternatives": [
+   "Yehia"
+  ]
+ },
+ "بدر": {
+  "default": "Badr",
+  "alternatives": [
+   "Bader"
+  ]
+ },
+ "بندر": {
+  "default": "Bandar",
+  "alternatives": [
+   "Bander"
+  ]
+ },
+ "تركي": {
+  "default": "Turki",
+  "alternatives": [
+   "Turky"
+  ]
+ },
+ "جاسم": {
+  "default": "Jasim",
+  "alternatives": [
+   "Jassim"
+  ]
+ },
+ "حمد": {
+  "default": "Hamad",
+  "alternatives": [
+   "Hamed"
+  ]
+ },
+ "حمزة": {
+  "default": "Hamza",
+  "alternatives": [
+   "Hamzah"
+  ]
+ },
+ "رائد": {
+  "default": "Raed",
+  "alternatives": [
+   "Raid"
+  ]
+ },
+ "راشد": {
+  "default": "Rashed",
+  "alternatives": [
+   "Rashid"
+  ]
+ },
+ "راضي": {
+  "default": "Rady",
+  "alternatives": [
+   "Radi"
+  ]
+ },
+ "رامي": {
+  "default": "Rami",
+  "alternatives": [
+   "Ramy"
+  ]
+ },
+ "رضا": {
+  "default": "Reda",
+  "alternatives": [
+   "Rida",
+   "Redha"
+  ]
+ },
+ "ريان": {
+  "default": "Rayan",
+  "alternatives": [
+   "Ryan",
+   "Rayyan"
+  ]
+ },
+ "رياض": {
+  "default": "Riyad",
+  "alternatives": [
+   "Riyadh"
+  ]
+ },
+ "سامي": {
+  "default": "Sami",
+  "alternatives": [
+   "Samy"
+  ]
+ },
+ "سليمان": {
+  "default": "Sulaiman",
+  "alternatives": [
+   "Suleiman",
+   "Sulayman"
+  ]
+ },
+ "سيف": {
+  "default": "Saif",
+  "alternatives": [
+   "Seif",
+   "Sayf"
+  ]
+ },
+ "شادي": {
+  "default": "Shadi",
+  "alternatives": [
+   "Shady"
+  ]
+ },
+ "شهاب": {
+  "default": "Shihab",
+  "alternatives": [
+   "Shehab"
+  ]
+ },
+ "صالح": {
+  "default": "Saleh",
+  "alternatives": [
+   "Salih"
+  ]
+ },
+ "ضياء": {
+  "default": "Diaa",
+  "alternatives": [
+   "Diya",
+   "Dhiya"
+  ]
+ },
+ "طلال": {
+  "default": "Talal",
+  "alternatives": [
+   "Talaal"
+  ]
+ },
+ "عادل": {
+  "default": "Adel",
+  "alternatives": [
+   "Adil"
+  ]
+ },
+ "عبدالعزيز": {
+  "default": "Abdulaziz",
+  "alternatives": [
+   "Abdelaziz",
+   "Abdul Aziz"
+  ]
+ },
+ "عبدالكريم": {
+  "default": "Abdulkarim",
+  "alternatives": [
+   "Abdelkarim"
+  ]
+ },
+ "عبدالملك": {
+  "default": "Abdulmalik",
+  "alternatives": [
+   "Abdelmalek"
+  ]
+ },
+ "عثمان": {
+  "default": "Othman",
+  "alternatives": [
+   "Osman",
+   "Uthman"
+  ]
+ },
+ "عدنان": {
+  "default": "Adnan",
+  "alternatives": [
+   "Adnaan"
+  ]
+ },
+ "عماد": {
+  "default": "Emad",
+  "alternatives": [
+   "Imad"
+  ]
+ },
+ "عمار": {
+  "default": "Ammar",
+  "alternatives": [
+   "Amar"
+  ]
+ },
+ "غازي": {
+  "default": "Ghazi",
+  "alternatives": [
+   "Ghazy"
+  ]
+ },
+ "فارس": {
+  "default": "Fares",
+  "alternatives": [
+   "Faris"
+  ]
+ },
+ "فراس": {
+  "default": "Firas",
+  "alternatives": [
+   "Feras"
+  ]
+ },
+ "فواز": {
+  "default": "Fawaz",
+  "alternatives": [
+   "Fawwaz"
+  ]
+ },
+ "قاسم": {
+  "default": "Qasim",
+  "alternatives": [
+   "Kasem",
+   "Qassim"
+  ]
+ },
+ "كريم": {
+  "default": "Karim",
+  "alternatives": [
+   "Kareem"
+  ]
+ },
+ "لؤي": {
+  "default": "Louay",
+  "alternatives": [
+   "Luay",
+   "Loay"
+  ]
+ },
+ "ماهر": {
+  "default": "Maher",
+  "alternatives": [
+   "Mahir"
+  ]
+ },
+ "مازن": {
+  "default": "Mazen",
+  "alternatives": [
+   "Mazin"
+  ]
+ },
+ "مروان": {
+  "default": "Marwan",
+  "alternatives": [
+   "Marouan"
+  ]
+ },
+ "معاذ": {
+  "default": "Muath",
+  "alternatives": [
+   "Moaz",
+   "Muaz",
+   "Mouaz"
+  ]
+ },
+ "محسن": {
+  "default": "Mohsen",
+  "alternatives": [
+   "Muhsin"
+  ]
+ },
+ "مشعل": {
+  "default": "Mishaal",
+  "alternatives": [
+   "Meshal"
+  ]
+ },
+ "منصور": {
+  "default": "Mansour",
+  "alternatives": [
+   "Mansur"
+  ]
+ },
+ "مهدي": {
+  "default": "Mahdi",
+  "alternatives": [
+   "Mehdi"
+  ]
+ },
+ "موسى": {
+  "default": "Musa",
+  "alternatives": [
+   "Moussa",
+   "Mousa"
+  ]
+ },
+ "نادر": {
+  "default": "Nader",
+  "alternatives": [
+   "Nadir"
+  ]
+ },
+ "نبيل": {
+  "default": "Nabil",
+  "alternatives": [
+   "Nabeel"
+  ]
+ },
+ "نواف": {
+  "default": "Nawaf",
+  "alternatives": [
+   "Nawwaf"
+  ]
+ },
+ "وائل": {
+  "default": "Wael",
+  "alternatives": [
+   "Wail"
+  ]
+ },
+ "ياسين": {
+  "default": "Yassin",
+  "alternatives": [
+   "Yasin",
+   "Yaseen"
+  ]
+ },
+ "يزيد": {
+  "default": "Yazid",
+  "alternatives": [
+   "Yazeed"
+  ]
+ },
+ "هشام": {
+  "default": "Hisham",
+  "alternatives": [
+   "Hesham"
+  ]
+ },
+ "هلال": {
+  "default": "Hilal",
+  "alternatives": [
+   "Helal"
+  ]
+ },
+ "أنس": {
+  "default": "Anas",
+  "alternatives": [
+   "Anass"
+  ]
+ },
+ "أيمن": {
+  "default": "Ayman",
+  "alternatives": [
+   "Aymen"
+  ]
+ },
+ "أسامة": {
+  "default": "Osama",
+  "alternatives": [
+   "Usama"
+  ]
+ },
+ "أمير": {
+  "default": "Amir",
+  "alternatives": [
+   "Ameer"
+  ]
+ },
+ "باسل": {
+  "default": "Basil",
+  "alternatives": [
+   "Basel"
+  ]
+ },
+ "بلال": {
+  "default": "Bilal",
+  "alternatives": [
+   "Belal"
+  ]
+ },
+ "ثامر": {
+  "default": "Thamer",
+  "alternatives": [
+   "Tamer"
+  ]
+ },
+ "جابر": {
+  "default": "Jaber",
+  "alternatives": [
+   "Jabir"
+  ]
+ },
+ "جمال": {
+  "default": "Jamal",
+  "alternatives": [
+   "Gamal"
+  ]
+ },
+ "حاتم": {
+  "default": "Hatem",
+  "alternatives": [
+   "Hatim"
+  ]
+ },
+ "حمدان": {
+  "default": "Hamdan",
+  "alternatives": [
+   "Hamdaan"
+  ]
+ },
+ "خليل": {
+  "default": "Khalil",
+  "alternatives": [
+   "Khaleel"
+  ]
+ },
+ "داود": {
+  "default": "Dawood",
+  "alternatives": [
+   "Dawud",
+   "Daoud"
+  ]
+ },
+ "زيد": {
+  "default": "Zaid",
+  "alternatives": [
+   "Zayd",
+   "Zeid"
+  ]
+ },
+ "فاطمة": {
+  "default": "Fatima",
+  "alternatives": [
+   "Fatimah",
+   "Fatma"
+  ]
+ },
+ "عائشة": {
+  "default": "Aisha",
+  "alternatives": [
+   "Aysha",
+   "Ayesha"
+  ]
+ },
+ "مريم": {
+  "default": "Maryam",
+  "alternatives": [
+   "Mariam",
+   "Miriam"
+  ]
+ },
+ "خديجة": {
+  "default": "Khadija",
+  "alternatives": [
+   "Khadijah",
+   "Khadiga"
+  ]
+ },
+ "زينب": {
+  "default": "Zainab",
+  "alternatives": [
+   "Zaynab",
+   "Zeinab"
+  ]
+ },
+ "سارة": {
+  "default": "Sara",
+  "alternatives": [
+   "Sarah"
+  ]
+ },
+ "نورة": {
+  "default": "Noura",
+  "alternatives": [
+   "Nora",
+   "Nourah"
+  ]
+ },
+ "نور": {
+  "default": "Nour",
+  "alternatives": [
+   "Noor"
+  ]
+ },
+ "هدى": {
+  "default": "Huda",
+  "alternatives": [
+   "Hoda"
+  ]
+ },
+ "ليلى": {
+  "default": "Layla",
+  "alternatives": [
+   "Leila",
+   "Laila"
+  ]
+ },
+ "سلمى": {
+  "default": "Salma",
+  "alternatives": [
+   "Selma"
+  ]
+ },
+ "سمية": {
+  "default": "Sumaya",
+  "alternatives": [
+   "Sumayyah"
+  ]
+ },
+ "رنا": {
+  "default": "Rana",
+  "alternatives": [
+   "Ranna"
+  ]
+ },
+ "رنيم": {
+  "default": "Raneem",
+  "alternatives": [
+   "Ranim"
+  ]
+ },
+ "ريم": {
+  "default": "Reem",
+  "alternatives": [
+   "Rim"
+  ]
+ },
+ "دانة": {
+  "default": "Dana",
+  "alternatives": [
+   "Danah"
+  ]
+ },
+ "دانا": {
+  "default": "Dana",
+  "alternatives": [
+   "Danna"
+  ]
+ },
+ "لينا": {
+  "default": "Lina",
+  "alternatives": [
+   "Leena"
+  ]
+ },
+ "لمى": {
+  "default": "Lama",
+  "alternatives": [
+   "Lamaa"
+  ]
+ },
+ "لجين": {
+  "default": "Lujain",
+  "alternatives": [
+   "Lujayn"
+  ]
+ },
+ "جود": {
+  "default": "Joud",
+  "alternatives": [
+   "Jood"
+  ]
+ },
+ "جنى": {
+  "default": "Jana",
+  "alternatives": [
+   "Jena"
+  ]
+ },
+ "جوري": {
+  "default": "Joury",
+  "alternatives": [
+   "Jouri"
+  ]
+ },
+ "غادة": {
+  "default": "Ghada",
+  "alternatives": [
+   "Ghadah"
+  ]
+ },
+ "غلا": {
+  "default": "Ghala",
+  "alternatives": [
+   "Ghalaa"
+  ]
+ },
+ "هند": {
+  "default": "Hind",
+  "alternatives": [
+   "Hend"
+  ]
+ },
+ "هيا": {
+  "default": "Haya",
+  "alternatives": [
+   "Hayaa"
+  ]
+ },
+ "وفاء": {
+  "default": "Wafa",
+  "alternatives": [
+   "Wafaa"
+  ]
+ },
+ "ولاء": {
+  "default": "Walaa",
+  "alternatives": [
+   "Wala"
+  ]
+ },
+ "آمنة": {
+  "default": "Amna",
+  "alternatives": [
+   "Amina",
+   "Aminah"
+  ]
+ },
+ "أسماء": {
+  "default": "Asma",
+  "alternatives": [
+   "Asmaa"
+  ]
+ },
+ "أماني": {
+  "default": "Amani",
+  "alternatives": [
+   "Amany"
+  ]
+ },
+ "أمل": {
+  "default": "Amal",
+  "alternatives": [
+   "Amel"
+  ]
+ },
+ "إيمان": {
+  "default": "Eman",
+  "alternatives": [
+   "Iman",
+   "Imane"
+  ]
+ },
+ "بتول": {
+  "default": "Batool",
+  "alternatives": [
+   "Batoul"
+  ]
+ },
+ "بشرى": {
+  "default": "Bushra",
+  "alternatives": [
+   "Boshra"
+  ]
+ },
+ "تسنيم": {
+  "default": "Tasneem",
+  "alternatives": [
+   "Tasnim"
+  ]
+ },
+ "جميلة": {
+  "default": "Jamila",
+  "alternatives": [
+   "Jamilah",
+   "Gamila"
+  ]
+ },
+ "حنان": {
+  "default": "Hanan",
+  "alternatives": [
+   "Hannan"
+  ]
+ },
+ "حليمة": {
+  "default": "Halima",
+  "alternatives": [
+   "Halimah"
+  ]
+ },
+ "رحاب": {
+  "default": "Rehab",
+  "alternatives": [
+   "Rihab"
+  ]
+ },
+ "رغد": {
+  "default": "Raghad",
+  "alternatives": [
+   "Raghd"
+  ]
+ },
+ "رقية": {
+  "default": "Ruqaya",
+  "alternatives": [
+   "Ruqayyah",
+   "Rokaya"
+  ]
+ },
+ "رهف": {
+  "default": "Rahaf",
+  "alternatives": [
+   "Rahf"
+  ]
+ },
+ "روان": {
+  "default": "Rawan",
+  "alternatives": [
+   "Rawaan"
+  ]
+ },
+ "روضة": {
+  "default": "Rawda",
+  "alternatives": [
+   "Rawdah"
+  ]
+ },
+ "ريماس": {
+  "default": "Remas",
+  "alternatives": [
+   "Rimas"
+  ]
+ },
+ "زهرة": {
+  "default": "Zahra",
+  "alternatives": [
+   "Zahrah"
+  ]
+ },
+ "سجى": {
+  "default": "Saja",
+  "alternatives": [
+   "Sajaa"
+  ]
+ },
+ "سعاد": {
+  "default": "Suad",
+  "alternatives": [
+   "Soad",
+   "Souad"
+  ]
+ },
+ "سناء": {
+  "default": "Sanaa",
+  "alternatives": [
+   "Sana"
+  ]
+ },
+ "شهد": {
+  "default": "Shahad",
+  "alternatives": [
+   "Shahd"
+  ]
+ },
+ "شيماء": {
+  "default": "Shaimaa",
+  "alternatives": [
+   "Shaymaa"
+  ]
+ },
+ "صفية": {
+  "default": "Safiya",
+  "alternatives": [
+   "Safiyyah"
+  ]
+ },
+ "عبير": {
+  "default": "Abeer",
+  "alternatives": [
+   "Abir"
+  ]
+ },
+ "علا": {
+  "default": "Ola",
+  "alternatives": [
+   "Ala"
+  ]
+ },
+ "عهد": {
+  "default": "Ahd",
+  "alternatives": [
+   "Ahed"
+  ]
+ },
+ "فرح": {
+  "default": "Farah",
+  "alternatives": [
+   "Fara"
+  ]
+ },
+ "فجر": {
+  "default": "Fajr",
+  "alternatives": [
+   "Fagr"
+  ]
+ },
+ "ندى": {
+  "default": "Nada",
+  "alternatives": [
+   "Nadaa"
+  ]
+ },
+ "نهى": {
+  "default": "Noha",
+  "alternatives": [
+   "Nuha"
+  ]
+ },
+ "نجلاء": {
+  "default": "Najlaa",
+  "alternatives": [
+   "Najla"
+  ]
+ },
+ "هبة": {
+  "default": "Heba",
+  "alternatives": [
+   "Hiba",
+   "Hibah"
+  ]
+ },
+ "هالة": {
+  "default": "Hala",
+  "alternatives": [
+   "Halah"
+  ]
+ },
+ "هناء": {
+  "default": "Hanaa",
+  "alternatives": [
+   "Hana"
+  ]
+ },
+ "يارا": {
+  "default": "Yara",
+  "alternatives": [
+   "Yaara"
+  ]
+ },
+ "ياسمين": {
+  "default": "Yasmin",
+  "alternatives": [
+   "Yasmine",
+   "Jasmine"
+  ]
+ },
+ "مها": {
+  "default": "Maha",
+  "alternatives": [
+   "Mahaa"
+  ]
+ },
+ "منى": {
+  "default": "Mona",
+  "alternatives": [
+   "Muna",
+   "Mouna"
+  ]
+ },
+ "منال": {
+  "default": "Manal",
+  "alternatives": [
+   "Manaal"
+  ]
+ },
+ "ميار": {
+  "default": "Mayar",
+  "alternatives": [
+   "Miyar"
+  ]
+ },
+ "ميرا": {
+  "default": "Mira",
+  "alternatives": [
+   "Myra"
+  ]
+ },
+ "ملك": {
+  "default": "Malak",
+  "alternatives": [
+   "Malek"
+  ]
+ },
+ "مي": {
+  "default": "May",
+  "alternatives": [
+   "Mai"
+  ]
+ },
+ "نجوى": {
+  "default": "Najwa",
+  "alternatives": [
+   "Nagwa"
+  ]
+ },
+ "نسرين": {
+  "default": "Nasrin",
+  "alternatives": [
+   "Nesrine"
+  ]
+ },
+ "نوف": {
+  "default": "Nouf",
+  "alternatives": [
+   "Noof"
+  ]
+ },
+ "نوال": {
+  "default": "Nawal",
+  "alternatives": [
+   "Nawwal"
+  ]
+ },
+ "وعد": {
+  "default": "Waad",
+  "alternatives": [
+   "Waed"
+  ]
+ },
+ "لطيفة": {
+  "default": "Latifa",
+  "alternatives": [
+   "Lateefa"
+  ]
+ },
+ "لولوة": {
+  "default": "Lulwa",
+  "alternatives": [
+   "Lolwa"
+  ]
+ },
+ "شمس": {
+  "default": "Shams",
+  "alternatives": [
+   "Shamss"
+  ]
+ },
+ "ريناد": {
+  "default": "Reenad",
+  "alternatives": [
+   "Rinad"
+  ]
+ }
+}
